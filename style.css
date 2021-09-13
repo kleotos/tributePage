@@ -1,0 +1,46 @@
+*{
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+
+body{
+ background: #eeeeee;
+ margin:2rem;
+}
+
+#heading h1{
+ font-size: 2.5rem;
+ margin-top: 1rem;
+ text-align: center;
+ font-family: 'Lato', sans-serif;
+ font-weight: bold;
+ margin-bottom: 1rem;
+}
+
+#heading p {
+ font-size: 0.9rem;
+ text-align: center;
+ font-family: 'Lato', sans-serif;
+}
+
+#tribute_img {
+ background: white;
+ margin-top: 2rem;
+}
+
+#tribute_img p {
+ font-size: 0.9rem;
+ text-align: center;
+ font-family: 'Lato', sans-serif;
+ margin-bottom: 1rem;
+}
+
+#article h3{
+ font-size: 1rem;
+ margin-top: 2rem;
+ text-align: center;
+ font-family: 'Lato', sans-serif;
+ margin-bottom: 1rem;
+}
+}
